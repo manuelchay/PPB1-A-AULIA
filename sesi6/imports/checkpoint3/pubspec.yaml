@@ -1,0 +1,8 @@
+name: checkpoint3
+description: Checkpoint 3 Import Package
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  intl: ^0.19.0
